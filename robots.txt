@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://gmapsranker.github.io/telok-ayer-21f36a75-6609555a/sitemap.xml
-Sitemap: https://telok-ayer-21f36a75-6609555a.pages.dev/sitemap.xml
